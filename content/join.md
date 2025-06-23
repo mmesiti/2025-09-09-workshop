@@ -54,17 +54,12 @@ tools they need for their work.  We do this by teaching the most important
 software development tools, which are often missed in other coursework.
 This is a big task, but together with you, we can do it:
 
-### Volunteer as a Q&A helper
-
-You'd like to help out during the workshop? 
-Join us answering questions from the participants in the Q&A document (collaborative notes).
-
 ### Be a team leader
 
 If you step up and make yourself available as a **team leader** (for a team with your colleagues or in a local event) at CodeRefinery, and you will:
 - Mentor and provide positive encouragement for your team; guide them
   through the workshop.
-- Attend our one hour onboarding session (see schedule).
+- Attend our one hour onboarding session (agreed separately).
 - Have your own team during the course.
 - Help keep the team on track.  You are the first line, but you don't
   need to know everything.
@@ -75,19 +70,17 @@ question, probably you are. If you have some familiarity with
 Git, you can provide some initial advice on obvious error messages,
 but the idea is that you are able to ask for further help when it's needed.
 
-### Arrange your own local event
+### Bring your own classroom 
 
 Do you want to bring the CodeRefinery workshop to your community? 
 We are very happy for anyone who wants to organize local public events
- to follow the workshop and provide own on-site support.
-If you want to support your local community,
- you can arrange your own local event. This can be on-site or online.
+ to follow the workshop and provide own on-site support. This can be on-site or online.
 You can choose to arrange your own registration or do the registration via us.  
-You and your potential team leaders will get onboarding from us (see schedule).
+You and your potential team leaders will get onboarding from us (arranged separately).
 
 
 **You don't have to be located in the Nordics**. We welcome teams and local events from
-anyone, also outside the Nordics. These satellite events or local classrooms help
+anyone, also outside the Nordics. These local classrooms help
 us to reach more people.
 
 {{ enddiv() }}
@@ -98,7 +91,8 @@ us to reach more people.
 ### Price and attendance priority policy
 
 The course is free of charge, funded by the [Nordic e-Infrastructure
-Collaboration](https://neic.no/).  The livestream can scale up to an arbitrary
+Collaboration](https://neic.no/) and [CodeRefinery partner organizations](https://coderefinery.org/about/partners/).  
+The livestream can scale up to an arbitrary
 number of viewers.  The local partners usually use "first come - first
 served"-principle + a waiting list.  Some might also accept only members of
 their own organisation. We do not have any influence on this. 
