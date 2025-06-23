@@ -9,13 +9,8 @@ work.  The certificate is equivalent to 1 ECTS and your study supervisor will
 be able to register it as a credit in your university study credit system.
 **Please make sure that your supervisor/study program accepts it**.
 
-Learners with a valid Aalto student number will automatically get the credit
-registered in Aalto systems.  Please note that this does not apply to
-participants affiliated with TU Delft or other universities who have own
-criteria for workshop certificates and credits.
-
 To obtain a certificate, you must be affiliated with a university, or similar
-research organisation. We expect you to **follow the 6 days** of the course and
+research organisation. We expect you to **follow all 9 sessions** of the course and
 provide us with the following **three text documents sent from your university email**:
 
 1. A document that shows that you did the exercises during the course. *Note: if you are planning to delete the exercise repository from your GitHub projects, instead of sending links to your work you can send PDF screenshots e.g. by doing "print to PDF" with your browser.*
@@ -29,15 +24,16 @@ provide us with the following **three text documents sent from your university e
     - What is the difference between a `git clone` and a `git fork`?
     - What is the difference between a fork and a branch?
     - What advantages and disadvantages to code review can you imagine/list?
-3. A personal reflection for each of the 6 days written as a document (pdf or
+3. A personal reflection for each of the 9 days written as a document (pdf or
    word or txt, one paragraph per day). To get started, you can try answering
    the questions: "Why is this important? How can it improve my research work?"
    However any other personal reflection is welcome. Evaluation criteria: we
-   expect reflections that are related to the content of each of the six days.
+   expect reflections that are related to the content of each of the nine days.
+
 
 The three documents should be sent to **EMAIL** by **DATE**.
 Certificates will be issued by **DATE**.
-Clearly name each document with your name (and student number for Aalto University students).
+Clearly name each document with your name (for learners at Aalto University, please also add your student number).
 You must use your university email to submit your course materials.
 We do not provide certificates to people who are not
 affiliated with a higher education / research institution,

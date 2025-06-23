@@ -5,12 +5,12 @@ title = "Course goals and audience"
 
 ## Course goals
 
-In this course, you will become familiar with tools and best practices for
+In this course, you will become familiar with tools and good practices for
 scientific software development. This course will not teach a programming
 language, but we teach the tools you need to do programming well and avoid
 common inefficiency traps. The tools we teach are practically a requirement for
 any scientist who needs to write code. The main focus is on using
-Git for efficiently writing and maintaining research software.
+Git for efficiently writing and maintaining research code.
 
 
 ## Audience
@@ -31,8 +31,8 @@ Do you identify with any of these below, then this course is for you:
 
 </div>
 
-This course is not designed for "professional software engineers" or to make
-you one. You can register with your friends/group as a team and you'll
+This course is not designed for "professional software developers" or to make
+you one. You can register with your colleagues/group as a team to
 work together in exercise rooms, and you'll be able to work together after the
 course as well.
 
