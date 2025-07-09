@@ -6,7 +6,7 @@ title = "Schedule"
 
 Do you know some of the topics, but want to review them?
 Do you wish your colleagues or friends would use these tools?
-Why not [attend as with your group](@/join.md)?
+Why not [attend with your group](@/join.md)?
 Gather some colleagues who want to learn the topics and follow the workshop together.
 You don't need to be an expert: if you have been through CodeRefinery once or have some familiarity
 with the topics, and you are confident to use the notes to ask questions when needed,
@@ -27,7 +27,8 @@ To join any of the below mentioned groups, please sign up to the CodeRefinery wo
 We collect here the exercise groups that we know of:
 - CSC - IT Center for Science in Espoo, Finland:
     - Local in-person exercise session for days 1-3 including local support by CSC and Aalto university. Everyone welcome!
-- ...
+- Info about groups in Oslo, Stockholm, Copenhagen and Reykjavik coming soon
+- Please contact us at support(at)coderefinery.org if you want to be listed here. 
 
 
 
