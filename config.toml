@@ -52,7 +52,7 @@ logos = [
 
 # adapt this
 registration_link = "https://example.org"
-source_repo = "https://github.com/coderefinery/template-workshop-webpage"
+source_repo = "https://coderefinery.github.io/2025-09-09-workshop/"
 how_to_join_video = "https://youtu.be/QUAZELOioUY"
 
 # uncomment as soon as registration opens
