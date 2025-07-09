@@ -56,11 +56,11 @@ This is a big task, but together with you, we can do it:
 
 ### Be a team leader
 
-If you step up and make yourself available as a **team leader** (for a team with your colleagues or in a local event) at CodeRefinery, and you will:
+If you step up and make yourself available as a **team leader** (for a team with your colleagues or in a local event) at CodeRefinery, you will:
 - Mentor and provide positive encouragement for your team; guide them
   through the workshop.
-- Attend our one hour onboarding session (agreed separately).
-- Have your own team during the course.
+- Have the possibility to attend an onboarding session (agreed separately).
+- Work with your own team during the course.
 - Help keep the team on track.  You are the first line, but you don't
   need to know everything.
 - Use the collaborative notes document to ask for support, when needed. 
@@ -80,8 +80,7 @@ You and your potential team leaders will get onboarding from us (arranged separa
 
 
 **You don't have to be located in the Nordics**. We welcome teams and local events from
-anyone, also outside the Nordics. These local classrooms help
-us to reach more people.
+anywhere. These local classrooms help us to reach more people.
 
 {{ enddiv() }}
 
