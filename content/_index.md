@@ -28,8 +28,12 @@ We collect here the exercise groups that we know of:
 - **CSC - IT Center for Science in Espoo, Finland**:
     - Local in-person exercise session for days 1-3 including local support by CSC and Aalto university. Everyone welcome!
 - **DTU – Technical University of Denmark**:
-    - Local in-person exercise session and support for all days at Lyngby Campus for DTU students and researchers. Please, sign-up on their event page separately, if you want to join the in-person class that includes helpers, networking and coffee. The [DTU event page](https://www.bibliotek.dtu.dk/en/calendar/coderefinery-09092025?id=d2fa87ed-efb3-49bd-86de-7a54d043b3ae) includes registration and contact information. 
-- Info about classrooms in Oslo, Stockholm and Reykjavik coming soon
+    - Local in-person exercise session and support for all days at Lyngby Campus for DTU students and researchers. Please, sign-up on their event page separately, if you want to join the in-person class that includes helpers, networking and coffee.
+    - The [DTU event page](https://www.bibliotek.dtu.dk/en/calendar/coderefinery-09092025?id=d2fa87ed-efb3-49bd-86de-7a54d043b3ae) includes registration and contact information.
+- **UiO - University of Oslo** 
+    - Local in-person exercise session for Days 1–3 (Sep 9–11) at UiO, with on-site helpers available. Open to students, researchers, and staff at UiO.         - Please register separately to join the in-person group:
+https://www.ub.uio.no/english/courses-events/courses/coderefinery/time-and-place/2025-09-9-coderefineryWorkshop.html
+- Info about classrooms in Stockholm and Reykjavik coming soon
 - Please contact us at support(at)coderefinery.org if you want to be listed here. 
 
 
