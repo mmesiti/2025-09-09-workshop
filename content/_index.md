@@ -38,11 +38,18 @@ We collect here the exercise groups that we know of:
 - Please contact us at support(at)coderefinery.org if you want to be listed here. 
 
 
-
-
 ## Instructors
 
-- ...
+- Johan Hellsvik
+- Jarno Rantaharju
+- Sabry Razick
+- Radovan Bast
+- Michele Mesiti
+- Gregor Decristoforo
+- Ina Pöhner
+- Oskar Taubert
+- Bjørn Lindi
+- ... and you? 
 
 
 ## Workshop organizers
@@ -59,12 +66,18 @@ We collect here the exercise groups that we know of:
 
 ## Recording and broadcasting
 
-- ...
+- Richard Darst
+- Jarno Rantaharju
 
 
 ## Local organizers and team leads
 
-- ...
+- Jitka Stilund Hansen
+- Ding He
+- Elisa Pierfederici
+- Anni Järvenpää
+- Aurélie Vancraeyenest
+- ... and you?
 
 
 ## Collaborative notes managers
