@@ -124,12 +124,12 @@ schedule:
     date: "2025-10-22"
     sessions:
       - starts: 10:00
-        ends: 12:00
+        ends: 12:15
         title: Modular code development
         subtitle: Making reusing parts of your code easier
         url: https://coderefinery.github.io/modular-type-along/
         presenters: TBA
-      - starts: 12:00
+      - starts: 12:15
         ends: 12:30 
         title: "Concluding remarks, general Q&A, and where to go from here"
         url: https://github.com/coderefinery/workshop-outro/blob/master/README.md
