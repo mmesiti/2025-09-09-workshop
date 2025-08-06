@@ -74,6 +74,7 @@ We collect here the exercise groups that we know of:
 
 - Jitka Stilund Hansen
 - Ding He
+- Jakob Sauer Jørgensen
 - Elisa Pierfederici
 - Anni Järvenpää
 - Aurélie Vancraeyenest
