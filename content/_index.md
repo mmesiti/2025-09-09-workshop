@@ -49,6 +49,7 @@ We collect here the exercise groups that we know of:
 - Ina Pöhner
 - Oskar Taubert
 - Bjørn Lindi
+- Andrew Mashchak
 - Thomas Pfau
 - Yu Tian
 - Hossein Firooz
