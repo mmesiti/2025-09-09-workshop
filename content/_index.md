@@ -35,7 +35,7 @@ We collect here the exercise groups that we know of:
     - Please visit the [UiO event page](https://www.ub.uio.no/english/courses-events/courses/coderefinery/time-and-place/2025-09-9-coderefineryWorkshop.html) to register separately to join the in-person group
 - **UICE - University of Iceland**
     - Local in-person exercise session for days 1-3 (Sep 9–11) at UICE, with on-site helpers available. Open to all students, researchers, and staff at UICE.
-    - Please register separately via the [UICE event page](https://ugla.hi.is/vidburdir/SkodaVidburd.php?sid=1448&vidburdur_id=10769) to join the in-person group 
+    - Please register separately via the [UICE event page](https://hi.is/vidburdir/coderefinery_workshop) to join the in-person group 
 
 - Info about classroom in Stockholm coming soon
 - Please contact us at support(at)coderefinery.org if you want to be listed here. 
