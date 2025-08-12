@@ -1,19 +1,35 @@
 ---
 # all times must be input in UTC, be careful about daylight saving
 schedule:
-  - title: "Installation help"
+  - title: "Shell crashcourse"
     date: "2025-09-03"
     sessions:
       - starts: 10:00
-        ends: 11:00
+        ends: 10:30
+        title: Shell crash course (option 1)
+        url: https://youtu.be/xbTTDLA3txI
+        subtitle: "Please attend if you want to refresh basics of command line interaction. Choose the option that works best for you."  
+  - title: "Installation help"
+    date: "2025-09-03"
+    sessions:
+      - starts: 10:30
+        ends: 12:00
         title: Installation help for everybody (option 1)
         url: https://coderefinery.github.io/installation/
         subtitle: "Please attend if you need help with the installation instructions. Choose the option that works best for you."
-  - title: "Installation help"
+  - title: "Shell crashcourse"
     date: "2025-09-08"
     sessions:
       - starts: 10:00
-        ends: 11:00
+        ends: 10:30
+        title: Shell crash course (option 2)
+        url: https://youtu.be/xbTTDLA3txI
+        subtitle: "Please attend if you want to refresh basics of command line interaction. Choose the option that works best for you."  
+  - title: "Installation help"
+    date: "2025-09-08"
+    sessions:
+      - starts: 10:30
+        ends: 12:00
         title: Installation help for everybody (option 2)
         url: https://coderefinery.github.io/installation/
         subtitle: "Please attend if you need help with the installation instructions. Choose the option that works best for you."
