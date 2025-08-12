@@ -11,4 +11,4 @@
   YouTube](https://www.youtube.com/playlist?list=PLpLblYHCzJACpOmIzO8TywjtfYD7_d93H) later
 - Install instructions: <https://coderefinery.github.io/installation/>
 - Lesson material is linked in the schedule below (shareable)
-- Collaborative document for questions and notes (please register to receive it)
+- Collaborative document for questions and notes + alternative Zoom room for questions and technical issues (please register to receive the links)
