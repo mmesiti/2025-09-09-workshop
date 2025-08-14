@@ -59,24 +59,22 @@ We collect here the exercise groups that we know of:
 - Hemanadhan Myneni
 - ... and you? 
 
-
 ## Workshop organizers
 
 - Enrico Glerean 
 - Samantha Wittke
 
-
 ## On-boarding
 
-- ...
-
-
+- Richard Darst
+- Radovan Bast
+- Enrico Glerean
+- Samantha Wittke
 
 ## Recording and broadcasting
 
 - Richard Darst
 - Jarno Rantaharju
-
 
 ## Local organizers and team leads
 
@@ -88,7 +86,8 @@ We collect here the exercise groups that we know of:
 - Aurélie Vancraeyenest
 - ... and you?
 
-
 ## Collaborative notes managers
 
+- Diana Iusan
+- Michele Mesiti
 - ...
