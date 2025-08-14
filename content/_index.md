@@ -57,7 +57,7 @@ We collect here the exercise groups that we know of:
 - Yu Tian
 - Hossein Firooz
 - Hemanadhan Myneni
-- Susanne Merz
+- Susa Merz
 
 ## Workshop organizers
 
