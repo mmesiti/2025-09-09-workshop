@@ -38,7 +38,7 @@ We collect here the exercise groups that we know of:
     - Please register separately via the [UICE event page](https://hi.is/vidburdir/coderefinery_workshop) to join the in-person group
 - **KTH Royal Institute of Technology, Stockholm, Sweden**
     - Local in-person exercise session for days 1-3 (Sep 9–11) at  Geisendorf, KTH Library, with on-site helpers available. Everyone welcome!
-    - Please register separately via the [KTH event page](https://www.kth.se/en/biblioteket/kalender/git-github-och-samarbeta-med-kod-coderefinery-workshop-1.1417624)) to join the in-person group.
+    - Please register separately via the [KTH event page](https://www.kth.se/en/biblioteket/kalender/git-github-och-samarbeta-med-kod-coderefinery-workshop-1.1417624) to join the in-person group.
 - Please contact us at support(at)coderefinery.org if you want to be listed here. 
 
 
