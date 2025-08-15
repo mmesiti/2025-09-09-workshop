@@ -30,14 +30,15 @@ We collect here the exercise groups that we know of:
 - **DTU – Technical University of Denmark**:
     - Local in-person exercise session and support for all days at Lyngby Campus for DTU students and researchers. Please, sign-up on their event page separately, if you want to join the in-person class that includes helpers, networking and coffee.
     - The [DTU event page](https://www.bibliotek.dtu.dk/en/calendar/coderefinery-09092025?id=d2fa87ed-efb3-49bd-86de-7a54d043b3ae) includes registration and contact information.
-- **UiO - University of Oslo** 
+- **UiO - University of Oslo, Norway** 
     - Local in-person exercise session for Days 1–3 (Sep 9–11) at UiO, with on-site helpers available. Open to students, researchers, and staff at UiO.
     - Please visit the [UiO event page](https://www.ub.uio.no/english/courses-events/courses/coderefinery/time-and-place/2025-09-9-coderefineryWorkshop.html) to register separately to join the in-person group
 - **UICE - University of Iceland**
     - Local in-person exercise session for days 1-3 (Sep 9–11) at UICE, with on-site helpers available. Open to all students, researchers, and staff at UICE.
-    - Please register separately via the [UICE event page](https://hi.is/vidburdir/coderefinery_workshop) to join the in-person group 
-
-- Info about classroom in Stockholm coming soon
+    - Please register separately via the [UICE event page](https://hi.is/vidburdir/coderefinery_workshop) to join the in-person group
+- **KTH Royal Institute of Technology, Stockholm, Sweden**
+    - Local in-person exercise session for days 1-3 (Sep 9–11) at  Geisendorf, KTH Library, with on-site helpers available. Everyone welcome!
+    - Please register separately via the [KTH event page](https://www.kth.se/en/biblioteket/kalender/git-github-och-samarbeta-med-kod-coderefinery-workshop-1.1417624)) to join the in-person group.
 - Please contact us at support(at)coderefinery.org if you want to be listed here. 
 
 
@@ -84,6 +85,9 @@ We collect here the exercise groups that we know of:
 - Elisa Pierfederici
 - Anni Järvenpää
 - Aurélie Vancraeyenest
+- Lina Andrén
+- Rosa Lönneborg
+- Mattias Vesterlund
 - ... and you?
 
 ## Collaborative notes managers
