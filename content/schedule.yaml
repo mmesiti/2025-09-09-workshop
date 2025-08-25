@@ -46,7 +46,11 @@ schedule:
       - starts: 9:20
         ends: 11:00
         title: Introduction to version control with Git - part 1/4
-        subtitle: "Why we want to track versions and how to go back in time to a working version: [Motivation](https://coderefinery.github.io/git-intro/motivation/), [Browsing](https://coderefinery.github.io/git-intro/browsing/), [Commiting](https://coderefinery.github.io/git-intro/commits/)"
+        subtitle: "Why we want to track versions and how to go back in time to a working version"
+        episodes:
+          - [Motivation, https://coderefinery.github.io/git-intro/motivation/]
+          - [Browsing, https://coderefinery.github.io/git-intro/browsing/]
+          - [Commiting, https://coderefinery.github.io/git-intro/commits/]
         url: https://coderefinery.github.io/git-intro/
         presenters: Sabry, Heman
       - starts: 12:00
@@ -54,7 +58,8 @@ schedule:
         title: Introduction to version control with Git - part 2/4
         url: https://coderefinery.github.io/git-intro/
         presenters: Sabry, Heman
-        subtitle: "[Merging](https://coderefinery.github.io/git-intro/merging/)"
+        episodes:
+          - [Merging, https://coderefinery.github.io/git-intro/merging/]
   - title: "Day 2"
     date: "2025-09-10"
     sessions:
@@ -63,13 +68,19 @@ schedule:
         title: Introduction to version control with Git - part 3/4
         url: https://coderefinery.github.io/git-intro/
         presenters: Susa, Oskar
-        subtitle: "[Day 2 intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md), [Local work](https://coderefinery.github.io/git-intro/local-workflow/), [Inspecting history](https://coderefinery.github.io/git-intro/archaeology/)"
+        episodes:
+          - [Day 2 intro, https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md]
+          - [Local work, https://coderefinery.github.io/git-intro/local-workflow/]
+          - [Inspecting history, https://coderefinery.github.io/git-intro/archaeology/]
       - starts: 12:00
         ends: 13:30
         title: Introduction to version control with Git - part 4/4
         url: https://coderefinery.github.io/git-intro/
         presenters: Susa, Oskar
-        subtitle: "[Sharing work](https://coderefinery.github.io/git-intro/sharing/), [Practical advice](https://coderefinery.github.io/git-intro/level/), [What to avoid](https://coderefinery.github.io/git-intro/what-to-avoid/)"
+        episodes:
+          - [Sharing work, https://coderefinery.github.io/git-intro/sharing/]
+          - [Practical advice, https://coderefinery.github.io/git-intro/level/]
+          - [What to avoid, https://coderefinery.github.io/git-intro/what-to-avoid/]
   - title: "Day 3"
     date: "2025-09-11"
     sessions:
@@ -78,22 +89,18 @@ schedule:
         title: Collaborative distributed version control - part 1/2
         url: https://coderefinery.github.io/git-collaborative/
         presenters: Gregor, Andrew
-        subtitle: >-
-          [Day 3
-          intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md#welcome-to-day-3-of-the-coderefinery-workshop),
-          [Concepts](https://coderefinery.github.io/git-collaborative/concepts/),
-          [Same
-          repository](https://coderefinery.github.io/git-collaborative/same-repository/),
-          [Code
-          Review](https://coderefinery.github.io/git-collaborative/code-review/)
+        episodes:
+          - "[Day 3 intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md#welcome-to-day-3-of-the-coderefinery-workshop)"
+          - "[Concepts](https://coderefinery.github.io/git-collaborative/concepts/)"
+          - "[Same repository](https://coderefinery.github.io/git-collaborative/same-repository/)"
+          - [Code Review, https://coderefinery.github.io/git-collaborative/code-review/]
       - starts: 12:00
         ends: 13:30
         title: Collaborative distributed version control - part 2/2
         url: https://coderefinery.github.io/git-collaborative/
         presenters: Gregor, Andrew
-        subtitle: >-
-          [Contributing to others](https://coderefinery.github.io/git-collaborative/forking-workflow/)
-
+        episodes:
+          - [Contributing to others, https://coderefinery.github.io/git-collaborative/forking-workflow/]
   - title: "Day 4"
     date: "2025-09-17"
     sessions:
