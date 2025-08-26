@@ -97,7 +97,7 @@ schedule:
           - "[Day 3 intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md#welcome-to-day-3-of-the-coderefinery-workshop)"
           - "[Concepts](https://coderefinery.github.io/git-collaborative/concepts/)"
           - "[Same repository](https://coderefinery.github.io/git-collaborative/same-repository/)"
-          - "[Code Review, https://coderefinery.github.io/git-collaborative/code-review/]"
+          - "[Code Review](https://coderefinery.github.io/git-collaborative/code-review/)"
       - starts: 12:00
         ends: 13:30
         title: Collaborative distributed version control - part 2/2
