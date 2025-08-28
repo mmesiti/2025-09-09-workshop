@@ -1,4 +1,4 @@
-+++ 
++++
 title = "2025-08-28 Practical information to all registrants" 
 [extra] 
 subject = "[CodeRefinery workshop] practical info" 
