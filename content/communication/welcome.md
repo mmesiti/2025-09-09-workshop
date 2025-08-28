@@ -52,5 +52,6 @@ Best regards,
 Enrico and Samantha, on behalf of the CodeRefinery team
 
 -- 
+
 Privacy! You are receiving this email because you registered for the next CodeRefinery workshop. If your plans have changed, you can update your registration by visiting https://indico.neic.no/login/?next=/event/282/ or by contacting us at suppoert@coderefinery.org. Please consider subscribing to our newsletter to get  information about upcoming events: https://coderefinery.org/#newsletter. 
 You can check the code of conduct for the workshop at https://coderefinery.org/about/code-of-conduct/
