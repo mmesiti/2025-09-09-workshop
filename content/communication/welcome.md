@@ -6,7 +6,7 @@ subject = "[CodeRefinery workshop] practical info"
 
 Dear all,
 
-We are happy to have you onboard of the next Coderefinery workshop that starts on **Tuesday September 9th** at 11am CET. Full schedule and details at the [**Septmber 2025 CodeRefinery workshop webpage**](https://coderefinery.github.io/2025-09-09-workshop/
+We are happy to have you onboard of the next Coderefinery workshop that starts on **Tuesday September 9th** at 11am CET. Full schedule and details at the [**September 2025 CodeRefinery workshop webpage**](https://coderefinery.github.io/2025-09-09-workshop/
 ). 
 
 
