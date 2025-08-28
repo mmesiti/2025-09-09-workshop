@@ -43,7 +43,7 @@ For those who do not want to attend the workshop alone, there's still time to ga
 In-person classroom are currently available in Espoo, Reykjavik, Stockholm, Copenhagen and Oslo, please register separately to get in touch with the respective organisers: 
 https://coderefinery.github.io/2025-09-09-workshop/#local-exercise-groups
 
-If you want to form your own local classroom, we are happy to help you! Please get in touch with us at support@coderefinery.org
+If you want to form your own local team, we are happy to help you! Please get in touch with us at support@coderefinery.org
 
 
 If you have any questions, please write to support@coderefinery.org 
