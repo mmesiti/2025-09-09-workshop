@@ -30,7 +30,7 @@ Here are all relevant resources that you will need in order to connect during th
 * Please use this collaborative document to ask questions during the workshop: https://notes.coderefinery.org/workshop-2025-sep
 * Schedule and lecture materials: https://coderefinery.github.io/2025-09-09-workshop/#schedule 
 
-We will take breaks at times that will work for most locations as we are across multiple time zones.
+We will take shorter breaks every hour. The first three days also have an one hour break in between which depending on your timezone can for example be used for lunch.
 
 ### After the workshop: Certificates
 
