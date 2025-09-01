@@ -37,4 +37,8 @@ Coming soon!
 Coming soon!
 
 ### Day 9:
-Coming soon!
+- Previously this was done as live coding based on input from the audience. We
+  are thinking about changing this lesson slightly and allowing groups to
+  discuss and individuals to practice and possibly submit improvements via pull
+  requests during or after the workshop.
+- We will post more information here once we have finalized the lesson.
