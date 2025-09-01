@@ -22,6 +22,8 @@ If you need assistance with the installation, we offer two help sessions on **We
 
 Connection details for the installation help sessions and the shell crash course: **zoom link sent to participants** .
 
+You can add all workshop sessions to your own calendar following the instructions on this page: https://coderefinery.org/calendars/ (choose only the workshop calendar)
+
 ### During the workshop: How-to follow
 
 Here are all relevant resources that you will need in order to connect during the workshop:
