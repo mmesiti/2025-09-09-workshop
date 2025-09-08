@@ -22,7 +22,9 @@ This list is subject to changes until the week before the workshop.
 - [How to contribute changes to repositories that belong to others](https://coderefinery.github.io/git-collaborative/forking-workflow/#exercise)
 
 ### Day 4: 
-Coming soon!
+- [Recording Computational steps - Snakemake as an exemplary workflow manager](https://coderefinery.github.io/reproducible-research/workflow-management/#a-demo)
+- [Environments as time capsules for dependencies](https://coderefinery.github.io/reproducible-research/dependencies/#exercise-demo)
+- [DEMO - Using docker to run a local service without installing the software](https://coderefinery.github.io/reproducible-research/environments/#exercises)
 
 ### Day 5:
 Coming soon!
