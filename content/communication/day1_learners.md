@@ -42,8 +42,8 @@ As usual the links for the following days will be:
 -Workshop page: https://coderefinery.github.io/2025-09-09-workshop/
 - Installation pre-requisites: https://coderefinery.github.io/installation/
 - Twitch-TV stream: https://twitch.tv/coderefinery 
-- Interactive Q&A document: https://notes.coderefinery.org/workshop-2025-sep
-- Zoom room for further live help during exercises: https://aalto.zoom.us/j/69608324491 
+- Interactive Q&A document: [link in e-mail]
+- Zoom room for further live help during exercises: [link in e-mail]
 
 Best regards,
 Enrico, on behalf of the CodeRefinery team
