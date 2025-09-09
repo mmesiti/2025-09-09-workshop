@@ -1,4 +1,5 @@
 +++
+title = "Statics from Q&A"
 +++
 
 # Stats 
