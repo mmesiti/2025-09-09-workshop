@@ -35,8 +35,8 @@
       </tr>
       {% for session in day.sessions %}
         <tr>
-          <td class="uk-width-2-5">
-            {{ macros::local_date(date=day.date, time=session.ends) }},
+          <td class="uk-width-2-5", style="text-align: right ;">
+            {% if loop.first %}{{ macros::local_date(date=day.date, time=session.ends) }},{% endif %}
             {{ macros::local_time(date=day.date, time=session.starts) }}
             -
             {{ macros::local_time(date=day.date, time=session.ends) }}
