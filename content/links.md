@@ -10,5 +10,6 @@
   and [on
   YouTube](https://www.youtube.com/playlist?list=PLpLblYHCzJACpOmIzO8TywjtfYD7_d93H) later
 - Install instructions: <https://coderefinery.github.io/installation/>
+- You can add all workshop sessions to your own calendar following the instructions on our [calendar page](https://coderefinery.org/calendars/) (choose only the workshop calendar)
 - Lesson material is linked in the schedule below (shareable)
 - Collaborative document for questions and notes + alternative Zoom room for questions and technical issues (please register to receive the links)
