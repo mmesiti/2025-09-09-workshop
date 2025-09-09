@@ -15,7 +15,6 @@
     recommended, but command line also works)
 - If you had/have issues with the installation, **we will provide a 1h
   support zoom session tomorrow morning 9:00 CEST (Oslo/Rome)**. See email.
-- **Day 3 is when we will collaborate together** and we will send you detailed instructions on how to do that via email later today.
 - New format! Git and GitHub Tue-Thu Sep 9-11 at 11-15.30 CEST
   (including 1 hour break). After the Git/GitHub week, we teach other
   topics every Wednesday at 12-14.30 CEST until Oct 22.
