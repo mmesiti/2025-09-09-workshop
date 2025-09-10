@@ -35,7 +35,7 @@ provide us with the following **three text documents sent from your university e
    word or txt, one paragraph per day). To get started, you can try answering
    the questions: "Why is this important? How can it improve my research work?"
    However any other personal reflection is welcome. Evaluation criteria: we
-   expect reflections that are related to the content of each of the six days.
+   expect reflections that are related to the content of each of the nine days.
 
 **Note: Alternative options for homework** if you find more useful to do other exercises, you can also submit one alternative exercise instead of one of the 3 listed above. So for example you can submit your experiments with Sphinx and github pages (option 2 below), and not do the document with the personal reflections. Here the alternative options:
 
